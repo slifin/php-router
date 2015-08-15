@@ -1,0 +1,6 @@
+{
+	"name": "slifin/f",
+	"autoload": {
+		"classmap": ["."]
+	}
+}
