@@ -8,7 +8,10 @@ $baseDir = dirname($vendorDir);
 return array(
     'ComposerAutoloaderInitd9dc3ed73817e894959b3f2612ef355a' => $vendorDir . '/composer/autoload_real.php',
     'Composer\\Autoload\\ClassLoader' => $vendorDir . '/composer/ClassLoader.php',
+    '_' => $baseDir . '/_.php',
     'f\\Router' => $baseDir . '/f/router.php',
     'f\\Routes' => $baseDir . '/f/router.php',
     'f\\Userland' => $baseDir . '/f/Userland.php',
+    'router' => $baseDir . '/router.php',
+    'routes' => $baseDir . '/router.php',
 );
